@@ -1,0 +1,2 @@
+# OrtamFinalProjesi
+AlperenAksuFinalProjesi
